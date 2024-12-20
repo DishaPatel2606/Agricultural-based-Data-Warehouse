@@ -7,7 +7,9 @@ Data Warehouse Schema
 
 Fact Tables
 Production Fact: Tracks crop production, prices, and total sales.
+
 Input Usage Fact: Records resource usage (e.g., water, fertilizers) and costs.
+
 Weather Fact: Captures temperature, rainfall, humidity, and soil moisture.
 
 
